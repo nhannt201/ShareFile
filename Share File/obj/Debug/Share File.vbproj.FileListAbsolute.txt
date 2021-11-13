@@ -1,0 +1,13 @@
+E:\Share File\Share File\bin\Debug\Share File.exe.config
+E:\Share File\Share File\bin\Debug\Share File.exe
+E:\Share File\Share File\bin\Debug\Share File.pdb
+E:\Share File\Share File\bin\Debug\Share File.xml
+E:\Share File\Share File\obj\Debug\Share_File.MainForm.resources
+E:\Share File\Share File\obj\Debug\Share_File.Resources.resources
+E:\Share File\Share File\obj\Debug\Share File.vbproj.GenerateResource.Cache
+E:\Share File\Share File\obj\Debug\Share File.exe
+E:\Share File\Share File\obj\Debug\Share File.xml
+E:\Share File\Share File\obj\Debug\Share File.pdb
+E:\Share File\Share File\obj\Debug\Share_File.home.resources
+E:\Share File\Share File\obj\Debug\Share_File.link2.resources
+E:\Share File\Share File\obj\Debug\Share File.vbprojResolveAssemblyReference.cache
